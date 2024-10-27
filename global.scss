@@ -1,0 +1,43 @@
+.nextra-menu-desktop li a{
+    background: none !important;
+}
+
+.nextra-nav-container nav{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+._max-w-\[90rem\] {
+    max-width: 1280px;
+}
+
+.nextra-sidebar-footer{
+    border: none;
+}
+
+
+body{
+
+    // aside a, aside p, aside button{
+    //     font-size: 18px !important;
+    //     font-weight: normal;
+    //     line-height: 32px;
+    // }
+
+    // p,a,li{
+    //     font-size: 18px;
+    //     font-weight: normal;
+    //     line-height: 32px;
+    // }
+    
+    /* background-image: url('/images/background-pattern.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top top; */
+
+    a{
+        text-decoration: none !important;
+    }
+
+    
+}
