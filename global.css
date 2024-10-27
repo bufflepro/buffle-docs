@@ -1,0 +1,24 @@
+.nextra-menu-desktop li a{
+    background: none !important;
+}
+
+.nextra-nav-container nav{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+._max-w-\[90rem\] {
+    max-width: 1280px;
+}
+
+.nextra-sidebar-footer{
+    border: none;
+}
+
+
+/* body{
+    background-image: url('/images/background-pattern.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top top;
+} */
