@@ -24,7 +24,8 @@ const themeConfig = {
 
   sidebar:{
     toggleButton: false,
-  
+    autoCollapse:true,
+    defaultMenuCollapseLevel :1,
   },
 
   footer: {
