@@ -59,7 +59,7 @@ body{
   display: none;
 }
 
-.embed-mode body{
-    background: transparent !important;
-    background-image: none !important;
+body .embed-mode {
+    background-color: transparent !important;
+    background-image: unset !important;
 }
