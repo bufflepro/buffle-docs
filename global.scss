@@ -58,3 +58,7 @@ body{
 .embed-mode .embed-mode ._mb-8._flex._items-center._border-t._pt-8 {
   display: none;
 }
+
+.embed-mode body{
+    background: transparent !important;
+}
