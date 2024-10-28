@@ -52,3 +52,9 @@ body{
     }
     
 }
+
+
+.embed-mode .nextra-nav-container,
+.embed-mode footer {
+  display: none;
+}

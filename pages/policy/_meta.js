@@ -1,5 +1,5 @@
 export default {
-    policy: 'Privacy',
+    privacy: 'Privacy',
     refund: 'Refund',
     cookie: 'Cookie',
     terms: 'Terms'

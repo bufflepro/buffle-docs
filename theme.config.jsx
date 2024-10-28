@@ -31,6 +31,7 @@ const themeConfig = {
   footer: {
     component: null,
   },
+  darkMode: true,
   gitTimestamp: false,
   themeSwitch: false,
   feedback: {
